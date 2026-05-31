@@ -151,10 +151,6 @@ customer-segmentation-ml/
 ├── data/
 │   ├── data_customer_info.csv
 │   └── data_customer_basket.csv
-├── clusters/
-│   ├── cluster_1.csv
-│   ├── cluster_2.csv
-│   └── ... (cluster_3 to cluster_9)
 └── outputs/
     └── scored_customers.csv
 ```
