@@ -2,7 +2,6 @@
 
 **Machine Learning II — NOVA IMS, 2024-2025**  
 **Grade: 17/20**  
-**Group 4:** Bernardo Caldas, David Santos, Inês Vicente
 
 ---
 
