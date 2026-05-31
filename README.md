@@ -140,7 +140,7 @@ customer-segmentation-ml/
 │
 ├── README.md
 ├── src/
-│   └── functions/
+│   └── folder_functions/
 │       ├── __init__.py
 │       └── preprocessing_function.py
 ├── notebooks/
