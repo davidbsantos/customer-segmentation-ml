@@ -76,7 +76,7 @@ Multiple algorithms evaluated using **silhouette scores** and **UMAP visualisati
 | DBSCAN | Also used for multidimensional outlier removal |
 | MiniSom (Self-Organizing Maps) | Grid search over hyperparameters |
 
-After **5 iterations of refinement**, the final solution used **K-Means with 9 clusters** (silhouette score: 0.198), selected based on silhouette analysis, UMAP visualisation, and cluster interpretability.
+After **5 iterations of refinement**, the final solution used **K-Means with 9 clusters**, selected based on silhouette analysis, UMAP visualisation, and cluster interpretability.
 
 ### 4. Association Rules
 
@@ -166,4 +166,4 @@ Follow the notebooks in order:
 3. `3_models.ipynb` — clustering models, evaluation, and final segment assignment
 4. `4_association_rules.ipynb` — Apriori algorithm per segment and promotion design
 
-The reusable preprocessing pipeline is available in `src/functions/preprocessing_function.py` and is imported directly into the modelling notebook.
+The reusable preprocessing pipeline is available in `src/folder_functions/preprocessing_function.py` and is imported directly into the modelling notebook.
